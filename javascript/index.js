@@ -144,6 +144,14 @@ if (age >= 18) {
     }
 
     
+    function breadBaking(flower, sugar) {
+    console.log(flower, sugar)
+    const bread = breadBaking `i use ${flower} bags of flower and ${sugar} bags of sugar for my baking`; 
+    return bread
+    }
+    const baking = breadBaking(3, 4)
+
+       
 
 
 
